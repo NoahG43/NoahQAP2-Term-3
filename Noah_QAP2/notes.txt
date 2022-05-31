@@ -1,0 +1,16 @@
+task 1 took roughly 2 hours
+task 2 took 40 minutes
+task 3 took 1 hours
+
+online resources i used involved the class lectures
+
+classmates i asked for help were Scott Hartley, Mark Hunter
+
+i didnt ask questions to instructors but i did speak to kpm John Byrne (1 session)
+
+task 1 was quite simple
+task 2 was somewhat difficult
+task 3 was challenging
+
+i feel like i can make a basic web server, 
+reducing complexity would be a challenge for me
